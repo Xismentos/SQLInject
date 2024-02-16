@@ -1,0 +1,3 @@
+HOW TO USE:
+
+python3 HTTP://... or HTTPS://...
